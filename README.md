@@ -6,4 +6,5 @@ Slides, demos y samples para la presentación del 27 de Mayo del primer Meetup F
 
 ## Setup
 
-    git submodule update --init
+    npm install
+    bower install
