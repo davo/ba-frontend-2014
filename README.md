@@ -1,6 +1,6 @@
 # Meetup Frontend Buenos Aires 2014
 
-Slides, demos & samples of a brief presentation I gave in Buenos Aires (May 2014), kicking of the first Buenos Aires Frontend Meetup.
+Slides, demos & samples of a brief presentation I gave in Buenos Aires (May 2014), kicking off the first Buenos Aires Frontend Meetup.
 
 ![Origami](img/microdancing_origami.png)
 
